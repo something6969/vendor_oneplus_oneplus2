@@ -1,0 +1,1 @@
+/bt_firmware/image/btfw32.tlv
